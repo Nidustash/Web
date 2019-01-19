@@ -67,5 +67,10 @@ namespace WebCrawler
                 list.Add(houseForSale);
             }
         }
+
+        public static void SayHello(){
+            Console.WriteLine("Hello World");
+        }
+
     }
 }
