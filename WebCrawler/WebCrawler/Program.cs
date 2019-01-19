@@ -15,7 +15,8 @@ namespace WebCrawler
         static void Main(string[] args)
         {
             int count = 0;
-            int abc = 1;
+            //int abc = 1;
+            string s = "Nhìn cc";
             List<HouseForSale> list = new List<HouseForSale>();
             for (int i = 1; i <= 10; i++)
             {
